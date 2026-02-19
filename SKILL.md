@@ -3,8 +3,9 @@ name: lightning-word-audit
 description: 'Audit prose for weak word choices, unnecessary adjectives, and imprecise language, then sharpen to maximum impact. Based on Twain''s principle: "The difference between the almost right word and the ...'
 license: MIT
 metadata:
+  version: 1.0.4390
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - lightning-word-audit
 - writing
